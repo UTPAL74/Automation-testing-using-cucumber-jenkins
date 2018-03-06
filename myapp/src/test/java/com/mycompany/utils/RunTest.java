@@ -8,6 +8,6 @@ import org.junit.runner.RunWith;
 @CucumberOptions(features = "./src/Features/InternationalPriceList.feature",
         glue = "com.mycompany.steps",
         format = {"pretty", "html:target/cucumber", "json:target/cucumber-report.json"})
-public class RunFeaturesTest {
+public class RunTest {
 
 }
