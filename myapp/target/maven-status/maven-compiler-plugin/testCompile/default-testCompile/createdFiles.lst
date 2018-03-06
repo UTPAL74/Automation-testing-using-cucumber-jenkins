@@ -1,8 +1,8 @@
 com\mycompany\utils\UserDetails.class
 com\mycompany\steps\MyStepdefs.class
-com\mycompany\utils\RunFeatures.class
 com\mycompany\utils\WebDriverUtility.class
 com\mycompany\app\AppTest.class
 com\mycompany\pages\SignIn.class
 com\mycompany\utils\Price.class
+com\mycompany\utils\RunFeaturesTest.class
 com\mycompany\steps\MyArithmeticStepDef.class
